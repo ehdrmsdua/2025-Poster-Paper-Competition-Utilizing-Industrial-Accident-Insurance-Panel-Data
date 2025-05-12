@@ -9,7 +9,7 @@
 CHAEWON I - Catholic Univ_Data Science <br/>
 JEONGSEOK SEOL - Korea Univ_Statistics <br/>
 YEONJEONG YEOH - Duksung W's Univ_Computer Engineering <br/>
-SEOEUN CHA - Dongduk Univ_Informaion Statistics <br/> 
+SEOEUN CHA - Dongduk W's Univ_Informaion Statistics <br/> 
 ### Announcement Document:<br/>
 ![ann](https://github.com/user-attachments/assets/27e7d02b-2bdb-4f2c-ab23-7b03e5f1209f)
 
