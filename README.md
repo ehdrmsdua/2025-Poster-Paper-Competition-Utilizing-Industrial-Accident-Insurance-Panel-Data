@@ -8,17 +8,17 @@
 ### Members : <br/>
 CHAEWON I - Catholic Univ_Data Science <br/>
 JEONGSEOK SEOL - Korea Univ_Statistics <br/>
-SEOEUN CHA - Sungkyul Univ_Industrial Management Engineering <br/>
-YEONJEONG YEOH - Sungkyul Univ_Industrial Management Engineering <br/>
+YEONJEONG YEOH - Duksung W's Univ_Computer Engineering <br/>
+SEOEUN CHA - Dongduk Univ_Informaion Statistics <br/> 
 ### Announcement Document:<br/>
-
-
-### Certificate:
-![상](https://github.com/user-attachments/assets/08e713ef-30c0-4293-9183-b3bdffcdeee6)
-
+![ann](https://github.com/user-attachments/assets/27e7d02b-2bdb-4f2c-ab23-7b03e5f1209f)
 
 ### Summary Preview:<br/>
-6 Pages / 16 Pages<br/>
+1 Page<br/>
+![산재보험 포스터_염동근_이채원_설정석_차서은_여현정](https://github.com/user-attachments/assets/2d603d14-14e8-4dfa-bd3f-4a8ec3c920b1)
+
+### Conference Display Photo:<br/>
+![pic](https://github.com/user-attachments/assets/084dbcc5-4e26-4ee3-8903-c4ba926dd1ad)
 
 
 <br/>
